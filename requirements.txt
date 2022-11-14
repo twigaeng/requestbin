@@ -14,3 +14,4 @@ python-dateutil==2.1
 gunicorn
 bugsnag
 blinker
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
